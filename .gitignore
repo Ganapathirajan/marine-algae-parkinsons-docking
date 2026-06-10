@@ -1,0 +1,7 @@
+# Zone identifier files
+*.Zone.Identifier
+*:Zone.Identifier
+
+# Intermediate files
+structures/
+*.pse
