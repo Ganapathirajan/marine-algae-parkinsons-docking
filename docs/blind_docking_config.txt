@@ -1,0 +1,17 @@
+receptor = /home/ganapathirajan/projectmarine/structures/protein/1XQ8_vina.pdbqt
+ligand = /home/ganapathirajan/projectmarine/structures/compound/ulvan_mol1.pdbqt
+
+center_x = 233.803
+center_y = 31.617
+center_z = -15.164
+
+size_x = 60
+size_y = 160
+size_z = 46
+
+exhaustiveness = 8
+num_modes = 9
+energy_range = 3
+
+out = /home/ganapathirajan/projectmarine/results/ulvan_blind_result.pdbqt
+log = /home/ganapathirajan/projectmarine/results/ulvan_blind_log.txt
