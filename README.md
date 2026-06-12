@@ -1,6 +1,6 @@
-# Marine Algae Bioactive Compounds as Potential Therapeutic Candidates for Parkinson's Disease — Molecular Docking Study
+# Marine Algae Bioactive Compounds as Potential Therapeutic Candidates for Parkinson's Disease — Molecular Docking Study.
 
-## MSc Bioinformatics & Data Science | Portfolio Project
+## MSc Bioinformatics & Data Science | Portfolio Project.
 
 ---
 
@@ -73,7 +73,6 @@ Dieckol (*Ecklonia cava* phlorotannin) showed strongest binding affinity (-6.0 k
 
 Wallen, Z.D. et al. (2022). Metagenomics of Parkinson's Disease Implicates the Gut Microbiome in Multiple Disease Mechanisms. *Nature Communications*, 13, 6958. https://doi.org/10.1038/s41467-022-34667-x
 
----
 
 Author
 
