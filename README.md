@@ -90,3 +90,49 @@ Author
 
 Ganapathirajan
 MSc Bioinformatics & Data Science
+
+---
+
+## ADMET / Drug-Likeness Analysis (SwissADME)
+
+| Property | Ulvan | Porphyran | Dieckol |
+|---|---|---|---|
+| Molecular Weight (g/mol) | 282 | 214 | 787 |
+| Lipinski violations | 0 | 0 | 3 |
+| BBB permeant | Yes | No | No |
+| GI absorption | High | High | Low |
+| Bioavailability score | 0.55 | 0.56 | 0.17 |
+| PAINS alert | 0 | 0 | 1 (catechol) |
+| Synthetic accessibility | 2.61 (easy) | 2.62 (easy) | 7.49 (hard) |
+
+**Interpretation:** Dieckol shows the strongest docking affinity but the poorest drug-likeness profile — high molecular weight, low bioavailability, poor GI absorption, and synthetic complexity. Ulvan shows weaker docking but a superior pharmacokinetic profile, including blood-brain barrier permeability. This highlights the classic binding-affinity vs druggability trade-off encountered in early-stage drug discovery.
+
+---
+
+## NAC Domain Comparison — Dieckol Selectivity Test
+
+| Binding Region | Residues | Affinity (kcal/mol) |
+|---|---|---|
+| N-terminal | 39-48 | -6.0 |
+| NAC domain | 61-95 | -4.3 |
+
+Dieckol shows clear selectivity for the N-terminal aggregation-trigger zone over the NAC core region on PDB 1XQ8, supporting a target-specific rather than non-specific binding mechanism.
+
+---
+
+## Future Perspectives
+
+- Expand docking to high-resolution alpha-synuclein fibril structures (e.g., 7Y7A, 2N0A) to evaluate Dieckol against the NAC hydrophobic groove (residues 70-82)
+- Investigate Dieckol as a potential multi-target inhibitor (N-terminal + NAC domain)
+- Apply green extraction techniques (ultrasound-assisted, supercritical fluid extraction) for sustainable compound isolation
+- Validate computational predictions via in vitro assays
+
+---
+
+## References
+
+- Wallen, Z.D. et al. (2022). Metagenomics of Parkinson's Disease Implicates the Gut Microbiome in Multiple Disease Mechanisms. *Nature Communications*, 13, 6958.
+- Tewatia, R. et al. (2026). Docking-Based Screening of Natural Compounds as Inhibitors of α-Synuclein Aggregation in Parkinson's Disease: A Comprehensive Review. *Int. J. of Pharm. Sci.*, 4(5), 3826-3853.
+- Sasidharan, S. & Chellappan, R.D. (2026). Greener Extraction Techniques and Neuroprotective Compounds from Marine Algae. *Asian Journal of Green Chemistry*, 10, 144-162.
+- Liu, Y. et al. (2018). Oligo-Porphyran Ameliorates Neurobehavioral Deficits in Parkinsonian Mice by Regulating the PI3K/Akt/Bcl-2 Pathway. *Marine Drugs*, 16(3), 82.
+- Wang, W. et al. (2015). Neuroprotective effects of porphyran derivatives against 6-hydroxydopamine-induced cytotoxicity is independent on mitochondria restoration. *Annals of Translational Medicine*, 3(3).
