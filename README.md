@@ -67,29 +67,6 @@ Dieckol (*Ecklonia cava* phlorotannin) showed strongest binding affinity (-6.0 k
 ---
 
 ## Repository Structure
----
-
-## Reference
-
-Wallen, Z.D. et al. (2022). Metagenomics of Parkinson's Disease Implicates the Gut Microbiome in Multiple Disease Mechanisms. *Nature Communications*, 13, 6958. https://doi.org/10.1038/s41467-022-34667-x
-
-#### Future Perspectives & Expanded Literature
-Based on recent literature reviews, this project aims to expand its *in silico* testing to investigate the **NAC domain** of alpha-synuclein (specifically the hydrophobic groove spanning residues 70-82 on high-resolution Cryo-EM fibril structures like 7Y7A). Recent evidence suggests that compounds like Dieckol act as powerful **multi-target inhibitors**, demonstrating high binding affinities (e.g., -11.4 kcal/mol) at the NAC domain in addition to the N-terminal trigger zone.
-
-Furthermore, integrating **Green Extraction Techniques** (such as Ultrasound-Assisted Extraction and Supercritical Fluid Extraction) for these marine bioactives represents a critical next step toward sustainable neuropharmacological drug development.
-
-#### Expanded References
-* **Tewatia, R. et al. (2026).** Docking-Based Screening of Natural Compounds as Inhibitors of α-Synuclein Aggregation in Parkinson’s Disease: A Comprehensive Review. *Int. J. of Pharm. Sci.* 4(5), 3826-3853.
-* **Sasidharan, S. & Chellappan, R. D. (2026).** Greener Extraction Techniques and Neuroprotective Compounds from Marine Algae: A New Wave in Neuropharmacology. *Asian Journal of Green Chemistry*, 10, 144-162.
-* **De Luca, L. et al. (2022).** Ligand-Based Discovery of a Small Molecule as Inhibitor of α-Synuclein Amyloid Formation. *Int. J. Mol. Sci.*, 23(23), 14844. 
-* **Wang, W. et al. (2015).** Neuroprotective effects of porphyran derivatives against 6-hydroxydopamine-induced cytotoxicity is independent on mitochondria restoration. *Annals of Translational Medicine*, 3(3).
-* **Liu, Y. et al. (2018).** Oligo-Porphyran Ameliorates Neurobehavioral Deficits in Parkinsonian Mice by Regulating the PI3K/Akt/Bcl-2 Pathway. *Marine Drugs*, 16(3), 82.
-* **Bisai, B. & Vavilala, S. L. (2021).** Neuroprotective Potential of Bioactive Sulfated Polysaccharides from Algae. *Acta Scientific Medical Sciences*, 5(8), 169-182.
-
-Author
-
-Ganapathirajan
-MSc Bioinformatics & Data Science
 
 ---
 
@@ -136,3 +113,9 @@ Dieckol shows clear selectivity for the N-terminal aggregation-trigger zone over
 - Sasidharan, S. & Chellappan, R.D. (2026). Greener Extraction Techniques and Neuroprotective Compounds from Marine Algae. *Asian Journal of Green Chemistry*, 10, 144-162.
 - Liu, Y. et al. (2018). Oligo-Porphyran Ameliorates Neurobehavioral Deficits in Parkinsonian Mice by Regulating the PI3K/Akt/Bcl-2 Pathway. *Marine Drugs*, 16(3), 82.
 - Wang, W. et al. (2015). Neuroprotective effects of porphyran derivatives against 6-hydroxydopamine-induced cytotoxicity is independent on mitochondria restoration. *Annals of Translational Medicine*, 3(3).
+- De Luca, L. et al. (2022).** Ligand-Based Discovery of a Small Molecule as Inhibitor of α-Synuclein Amyloid Formation. *Int. J. Mol. Sci.*, 23(23), 14844. 
+
+Author
+
+Ganapathirajan
+MSc Bioinformatics & Data Science
