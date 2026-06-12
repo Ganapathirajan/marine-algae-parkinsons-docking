@@ -75,7 +75,7 @@ Wallen, Z.D. et al. (2022). Metagenomics of Parkinson's Disease Implicates the G
 
 ---
 
-## Author
+Author
 
-**Ganapathirajan**
+Ganapathirajan
 MSc Bioinformatics & Data Science
