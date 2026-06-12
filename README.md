@@ -117,5 +117,6 @@ Dieckol shows clear selectivity for the N-terminal aggregation-trigger zone over
 
 Author
 
-Ganapathirajan
+Ganapathirajan P 
+
 MSc Bioinformatics & Data Science
