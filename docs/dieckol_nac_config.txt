@@ -1,0 +1,17 @@
+receptor = /home/ganapathirajan/projectmarine/protein/1XQ8_vina.pdbqt
+ligand = /home/ganapathirajan/projectmarine/compounds/dieckol_mol1.pdbqt
+
+center_x = 242.774
+center_y = 43.148
+center_z = -22.838
+
+size_x = 20
+size_y = 20
+size_z = 20
+
+exhaustiveness = 8
+num_modes = 9
+energy_range = 3
+
+out = /home/ganapathirajan/projectmarine/results/docking/dieckol_nac_result.pdbqt
+log = /home/ganapathirajan/projectmarine/results/logs/dieckol_nac_log.txt
