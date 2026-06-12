@@ -73,12 +73,6 @@ Dieckol (*Ecklonia cava* phlorotannin) showed strongest binding affinity (-6.0 k
 
 Wallen, Z.D. et al. (2022). Metagenomics of Parkinson's Disease Implicates the Gut Microbiome in Multiple Disease Mechanisms. *Nature Communications*, 13, 6958. https://doi.org/10.1038/s41467-022-34667-x
 
-
-Author
-
-Ganapathirajan
-MSc Bioinformatics & Data Science
-
 #### Future Perspectives & Expanded Literature
 Based on recent literature reviews, this project aims to expand its *in silico* testing to investigate the **NAC domain** of alpha-synuclein (specifically the hydrophobic groove spanning residues 70-82 on high-resolution Cryo-EM fibril structures like 7Y7A). Recent evidence suggests that compounds like Dieckol act as powerful **multi-target inhibitors**, demonstrating high binding affinities (e.g., -11.4 kcal/mol) at the NAC domain in addition to the N-terminal trigger zone.
 
@@ -91,3 +85,8 @@ Furthermore, integrating **Green Extraction Techniques** (such as Ultrasound-Ass
 * **Wang, W. et al. (2015).** Neuroprotective effects of porphyran derivatives against 6-hydroxydopamine-induced cytotoxicity is independent on mitochondria restoration. *Annals of Translational Medicine*, 3(3).
 * **Liu, Y. et al. (2018).** Oligo-Porphyran Ameliorates Neurobehavioral Deficits in Parkinsonian Mice by Regulating the PI3K/Akt/Bcl-2 Pathway. *Marine Drugs*, 16(3), 82.
 * **Bisai, B. & Vavilala, S. L. (2021).** Neuroprotective Potential of Bioactive Sulfated Polysaccharides from Algae. *Acta Scientific Medical Sciences*, 5(8), 169-182.
+
+Author
+
+Ganapathirajan
+MSc Bioinformatics & Data Science
