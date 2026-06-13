@@ -8,7 +8,7 @@
 
 This study investigates three novel marine algae-derived bioactive compounds as potential inhibitors of alpha-synuclein aggregation in Parkinson's disease (PD) using in silico molecular docking.
 
-**Target protein:** Alpha-synuclein (PDB: 1XQ8) — primary protein implicated in PD pathology
+**Target protein:** Alpha-synuclein (PDB: 1XQ8) — primary protein implicated in PD pathology.
 
 **Novel compounds tested:**
 | Compound | Source | PubChem CID |
@@ -115,8 +115,6 @@ Dieckol shows clear selectivity for the N-terminal aggregation-trigger zone over
 - Wang, W. et al. (2015). Neuroprotective effects of porphyran derivatives against 6-hydroxydopamine-induced cytotoxicity is independent on mitochondria restoration. *Annals of Translational Medicine*, 3(3).
 - De Luca, L. et al. (2022).** Ligand-Based Discovery of a Small Molecule as Inhibitor of α-Synuclein Amyloid Formation. *Int. J. Mol. Sci.*, 23(23), 14844. 
 
-Author
-
 Ganapathirajan P 
 
-MSc Bioinformatics & Data Science
+MSc Bioinformatics & Data Science.
